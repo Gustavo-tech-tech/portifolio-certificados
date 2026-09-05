@@ -8,15 +8,11 @@ Bem-vindo(a) ao meu repositório de certificações! Aqui reúno meus cursos, fo
 
 * **Competência Transversal - Lógica de Programação** (SENAI, 2026)
   * 🔗 [Ver Certificado](./certificado-competencia-transversal.pdf)
-  * 🎯 **Principais tópicos:** Tecnologias e habilidades abordadas.
+  * 🎯 **Principais tópicos:** Algoritmos, tipos de dados, variáveis.
+ 
+* **Desenvolvedor Full Stack** (DevClub, 2026)
+  *Em andamento*
 
----
-
-## 🏆 Conquistas e Marcos
-* **[Março de 2026]** - Conclusão de projetos práticos e imersões em desenvolvimento web.
-* **[Outro Marco Importante]** - Descrição rápida de alguma conquista relevante.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-* Linguagens, frameworks e ferramentas que domino ou estudei através destas certificações.
+* **Graduação em Analise e Desenvolvimento de Sistemas** (UniCid, 2026)
+  *Em andamento*
+  
