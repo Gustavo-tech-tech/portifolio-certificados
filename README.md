@@ -11,8 +11,9 @@ Bem-vindo(a) ao meu repositório de certificações! Aqui reúno meus cursos, fo
   * 🎯 **Principais tópicos:** Algoritmos, tipos de dados, variáveis.
  
 * **Desenvolvedor Full Stack** (DevClub, 2026)
-  *Em andamento*
+  * Principais linguagens e ferramentas estudadas: HTML, CSS, JavaScript
+  * Em andamento
 
 * **Graduação em Analise e Desenvolvimento de Sistemas** (UniCid, 2026)
-  *Em andamento*
+  * Em andamento
   
