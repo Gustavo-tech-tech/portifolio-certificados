@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu repositório de certificações! Aqui reúno meus cursos, fo
 ## 🚀 Certificações e Formações
 
 * **Competência Transversal - Lógica de Programação** (SENAC, 2026)
-  * 🔗 [Ver Certificado](./caminho-do-certificado-ou-link)
+  * 🔗 [Ver Certificado](./certificado-competencia-transversal)
   * 🎯 **Principais tópicos:** Tecnologias e habilidades abordadas.
 
 ---
