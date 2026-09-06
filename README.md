@@ -8,12 +8,16 @@ Bem-vindo(a) ao meu repositório de certificações! Aqui reúno meus cursos, fo
 
 * **Competência Transversal - Lógica de Programação** (SENAI, 2026)
   * 🔗 [Ver Certificado](./certificado-competencia-transversal.pdf)
-  * 🎯 **Principais tópicos:** Algoritmos, tipos de dados, variáveis.
+  * 🎯 **Principais tópicos:** Algoritmos, tipos de dados, variáveis
+
+* **Aula Magna - Cruzeiro do Sul Virtual** (2026)
+  * 🔗 [Ver Certificado](./certificado-aula-magna.pdf)
+  * 🎯 **Carga horária:** 04 Horas (Participação institucional).
  
 * **Desenvolvedor Full Stack** (DevClub, 2026)
-  * Principais linguagens e ferramentas estudadas: HTML, CSS, JavaScript
-  * Em andamento
+  * 🔍 Principais linguagens e ferramentas estudadas: HTML, CSS, JavaScript
+  * 👨‍💻 Em andamento
 
 * **Graduação em Analise e Desenvolvimento de Sistemas** (UniCid, 2026)
-  * Em andamento
+  * 👨‍💻 Em andamento
   
